@@ -5,3 +5,6 @@
 *.txt
 *.mp4
 *.avi
+*.pb
+*.data-00000-of-00001
+*.meta
